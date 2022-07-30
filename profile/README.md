@@ -4,6 +4,8 @@ This is `yukichan-bot-module`
 
 本组织管理了一系列使用 [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template) 开发的 QQ 机器人插件。
 
+交流群： [857066811](https://qm.qq.com/cgi-bin/qm/qr?k=rMtw1SlmoFOp08i5Zw5bM361ljIyzVA-&authKey=9OUzro5oH5CnnFaAbIMwa60987+8ZMwu5GvUAlFUzDIQKVL91z9zUhWp6m1Kayf8&noverify=0)
+
 <!--
 
 **Here are some ideas to get you started:**
