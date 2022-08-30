@@ -6,13 +6,13 @@ This is `yukichan-bot-module`
 
 交流群： [857066811](https://qm.qq.com/cgi-bin/qm/qr?k=rMtw1SlmoFOp08i5Zw5bM361ljIyzVA-&authKey=9OUzro5oH5CnnFaAbIMwa60987+8ZMwu5GvUAlFUzDIQKVL91z9zUhWp6m1Kayf8&noverify=0)
 
-<!--
+## LICENSE
 
-**Here are some ideas to get you started:**
+<a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
+<img src="https://www.gnu.org/graphics/agplv3-155x51.png">
+</a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+如无特殊说明，本组织项目许可协议均为 `AGPLv3`。为了整个社区的良性发展，我们强烈建议您做到以下几点：
+
+- **间接接触（包括但不限于使用 `Http API` 或 跨进程技术）到本项目的软件使用 `AGPLv3` 开源**
+- **不鼓励，不支持一切商业使用**
