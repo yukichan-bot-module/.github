@@ -1,3 +1,5 @@
+## 本项目已终止维护，计划切换框架，本项目模块不再更新，后续进展将在此处更新
+
 ## Hi there 👋 
 
 This is `yukichan-bot-module`
