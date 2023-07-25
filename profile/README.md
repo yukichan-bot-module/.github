@@ -1,3 +1,5 @@
+## 由于上游仓库 [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template) 已长久无人维护，本项目终止维护。
+
 ## Hi there 👋 
 
 This is `yukichan-bot-module`
